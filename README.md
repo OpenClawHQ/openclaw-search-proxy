@@ -1,6 +1,6 @@
 # openclaw-free-search-proxy
 
-Search proxy API for the OpenClaw ecosystem, powered by [DuckDuckGo](https://duckduckgo.com).
+Search proxy API for the OpenClaw ecosystem, ultimate free use, powered by [DuckDuckGo](https://duckduckgo.com).
 
 ## API Overview
 
