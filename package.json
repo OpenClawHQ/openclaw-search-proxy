@@ -1,4 +1,8 @@
 {
+  "name": "openclaw-search-proxy",
+  "version": "0.1.0",
+  "description": "Search proxy API for the OpenClaw ecosystem, powered by DuckDuckGo.",
+  "license": "MIT",
   "engines": {
     "node": "18.x"
   }
