@@ -48,11 +48,15 @@ Response:
 
 ```json
 {
+  "ok": true,
   "query": "OpenClaw",
   "type": "text",
   "results": [
     { "title": "...", "href": "...", "body": "..." }
-  ]
+  ],
+  "meta": {
+    "max_results": 3
+  }
 }
 ```
 
@@ -75,6 +79,16 @@ They respond with:
 
 - `GET /health` → `{"status": "ok"}`
 - `GET /` → basic service info and endpoint list
+
+---
+
+## Configuration & auth
+
+You can control behaviour via environment variables:
+
+- `SEARCH_DEFAULT_MAX_RESULTS` (default `10`)
+- `SEARCH_MAX_RESULTS_HARD_LIMIT` (default `50`)
+- `FREE_SEARCH_PROXY_TOKEN` (optional shared secret; when set, v1 endpoints require `X-OpenClaw-Search-Token` to match)
 
 ---
 
