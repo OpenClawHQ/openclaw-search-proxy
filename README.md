@@ -3,7 +3,7 @@
 [![CI – Simple tests](https://github.com/OpenClawHQ/free-search-proxy/actions/workflows/simple-tests.yml/badge.svg)](https://github.com/OpenClawHQ/free-search-proxy/actions/workflows/simple-tests.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-Search proxy API for the OpenClaw ecosystem, powered by [DuckDuckGo](https://duckduckgo.com).
+Search proxy API for the OpenClaw ecosystem, powered by [duckduckgo-api](https://github.com/binjie09/duckduckgo-api).
 
 ---
 
