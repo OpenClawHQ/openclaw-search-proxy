@@ -4,7 +4,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-Search proxy API adapted for the OpenClaw ecosystem, powered by [duckduckgo-api](https://github.com/binjie09/duckduckgo-api).
+Search proxy API for the OpenClaw ecosystem, powered by [duckduckgo-api](https://github.com/binjie09/duckduckgo-api).
 
 ---
 
